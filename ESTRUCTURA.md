@@ -55,3 +55,27 @@
 - Tailwind CSS
 - Supabase
 - Framer Motion
+
+- ## IV. PROTECCIÓN LEGAL Y DERECHOS
+
+1. Licencias
+   - Copyright © 2024 DesignD
+   - Todos los derechos reservados
+   - Marca registrada
+
+2. Avisos Legales
+   - Política de propiedad intelectual
+   - Términos y condiciones
+   - Aviso de derechos de autor
+
+3. Protecciones
+   - Marca de agua en imágenes
+   - Protección contra copias
+   - Certificados digitales
+   - Registro de propiedad intelectual
+
+4. Footer Legal
+   - Símbolos de copyright
+   - Declaración de derechos
+   - Año de creación
+   - Información de contacto legal
