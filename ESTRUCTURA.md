@@ -78,4 +78,38 @@
    - Símbolos de copyright
    - Declaración de derechos
    - Año de creación
+  
+   - ## V. MURAL DE NEGOCIOS (MN)
+
+1. Botón Flotante Interactivo
+   - Diseño con iniciales "MN"
+   - Efecto neón personalizado
+   - Animación al hover
+   - Siempre visible en pantalla
+
+2. Sistema de Tarjetas Digitales
+   - Subida de tarjetas de presentación
+   - Escaneo de tarjetas físicas
+   - Conversión automática a formato digital
+   - Organización por categorías
+
+3. Información de Negocios
+   - Datos de contacto
+   - Descripción del negocio
+   - Enlaces a redes sociales
+   - Ubicación en mapa
+   - Horarios de atención
+
+4. Funcionalidades
+   - Búsqueda por categoría
+   - Filtros por tipo de negocio
+   - Compartir tarjetas
+   - Guardar favoritos
+   - Conexiones entre negocios
+
+5. Interacción
+   - Sistema de recomendaciones
+   - Valoraciones
+   - Comentarios
+   - Networking directo
    - Información de contacto legal
